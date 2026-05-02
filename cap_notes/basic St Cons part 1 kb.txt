@@ -1,0 +1,42 @@
+mapping 4 type 
+group fact mapping 
+x12- input file
+.
+24/04/1973- st(sachin hbd) and kb(keshwanand bharti case) case ka judgement
+24/04/1993- panchayti raj ko lagu (narsimha rao)
+
+part 3 of constitution- mool adhikar(fundamental rights)
+{art- 12-35}{13 & 32 protects fundamental rights and can go to supreme court acc to 32 art}
+part 4- dpsp- {art 36-51}    *{art 20 amnedment of constituion}
+right to have property{art 19(1)(f) and 31 no one can snach property from anyone if state want it they have to pay compensation}
+{art 25 to 28 have religious right }
+art 44 uniform civil code maintain karega state
+land reforms- computarization of land and jamidari ko hata and land ceiling
+and educational reforms to inc education of vanchit varg (famous case against this is champakam in madras)
+ *1951 first amendment 31 mai A and B clause dal diya ki land reform mai baki maryada nahi lagu aur 31b 9th schedule lagu jisme non judicial review and 15[4] add kar diya jisme ST/SC/OBc ko reservation ko fundamental right kar diya
+**1951 shankari prasad vs union of india{art 13 and 368}(art 13(2)- state can never make a law which opposes the fundamental right and if makes if will be invalid to that extends 13(3)-ALL Law like act order ordinance rule etc should not contain 13(2))he was against the amendment made by nehru 1st amendment 9th schedule
+
+1953 mai case Bela Benerji then in 1955 4th amendment mai dal diya nehru ne(case kuch jamin ko leke tha west bengal mai)
+1964 mai phir 17 amendment then 1965 msi sajjan singh case phir wahi shankari prasd wala case
+1967 mai Golaknath case wahi ground 13 aur 368 lekin is bas sc 11 judge leke baithe but is bar sarkar ke khilaf 6:5 ke bahumat se faisla kiya ki art 368 art13 ka hi bhag hai 
+1969 mai Bank nationalization kiya indira gandhi ne 14 bank ko jiske sampati 50 cr ke upper thi sari nationalize kar di aur conpensation ki baat sanvidhan mai aisa hai ki public cause hai toh sarkar adhighran kar sakti hai badle mai kuch dena hoga agar sahamati nahi hai toh ek tribunal court deceide karega phir 10 sal ke bad compensation milega
+then RC copper the man which have most share in bank of baroda and some bank goes to sc appealing against this nationalisation and sc result in his favour with 10:1(AN Ray against voted) judge in favour of of rccopper
+(nani palkhi wala the lawyer who was in every case oppose the government)
+
+1970 Privy purses(raja log ko paise dena) ko change karna chalu {raja log ko do bar instrument of accession sign karwaya 1st 1947 jisme sirf defence videsh aur communication vagerah fir 1949 mai sab bhul jao tum raja nahi rahe ab tumhe hum paise denge aur constitution mai likh diya art291 mai tax free aur (consolidate fund of india) matlab bina sansad mai voting ke salary deceide hogi jaise aaj sc judge pm aur president ke salary aur art366(22)-mai kon kon raja hai} LS mai pass ho gaya par RS mai pass nahi hua 1st time aisa hua aur president ko bol ke kuch change karwa diya Ig ne phir {Madhav rao schdhia case kar diye aur jit gaye}
+
+1971 mai general election karwaye aur ig 352 seat layi
+IG ne USSR se dosti kar li 25 sal ke liye aur usi sal dec mai bangladesh ki ladai kar azad kar diya
+phir dhada dhar 24 ,25,26,27,28,29 wa amendment kar diya 24 mai gorakh nath ko sambhal 13 aur 368 dono alag alag hai yeh likh diya
+25 wa sansodhan 31[C] JOD DIYA 39[b,c] jod diya compensation ki jagh amount likh diya jisme bank wala mamla lipat gaya
+26 wa amendment privy purse ko leke tha raja log ka art 291 aur 362 ko hata diya aur 366 mai defenation hi change kar diya ruler ka raja ab rahe hi nahi
+29 wa kerla land reform act 9th schedule mai dal diya
+
+ab sc ko dar tha 
+kerla mai ek shankaracharya the KEshwa Bharti jinaka ek bhoot bada mat tha fir unhone case kiya sc mai 29th amendment ko leke aur 24, 25 aur GN case ko leke bhi
+fir sc ne faisla kiya ki sab sahi hai government ka aur kaha ki lekin sansad constitution ko likh nahi sakti ki Basic Structure of constitution change nahi kar sakti aur har amendment mai judicial review karegi(yeh faisla 24/04/1973 ko aaya aur ye last din tha cheif justice ka sm sikari ka)
+Toh shakariprasad ki har hui 
+phir 1980 mai manerma mills mai basic structure of constitution mai hi shamil hai ki sansad ko constitution change karni ki takat bhoot nahi hai
+1981 mai vamn rao ke case mai 9th schedule ka bhi review kar sakte hai sc
+
+
